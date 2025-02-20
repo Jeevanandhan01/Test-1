@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Hello im jeevanandhan
-=======
-Hello im jeeva the coder
->>>>>>> f56d880dae3bf939b2f0ee1278cff8f1d421e542
